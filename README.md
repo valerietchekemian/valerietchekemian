@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/banniere.png" alt="bannière" width="100%" />
+</div>
+
+<div align="center">
 
 # Hi 👋, I'm Valérie
 
