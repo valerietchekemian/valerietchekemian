@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="assets/banniere.png" alt="bannière" width="100%" />
-</div>
+![bannière](banniere.png)
 
 <div align="center">
 
