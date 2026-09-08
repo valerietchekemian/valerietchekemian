@@ -1,4 +1,4 @@
-![bannière](banniere.png)
+![bannière](photo.png)
 
 <div align="center">
 
